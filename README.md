@@ -2,6 +2,8 @@
 
 Get yourself a nice Github activity chart!
 
+![Example of a customized banner](./example.png)
+
 ## ℹ️ Usage
 
 First, clone this repo.
